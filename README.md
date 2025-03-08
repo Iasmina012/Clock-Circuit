@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project consists of three modules designed for time measurement purposes:
+This project consists of three modules designed for time measurement purposes.
 
 ### Design
 
